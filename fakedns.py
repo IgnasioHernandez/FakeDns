@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+python fakedns.py -c /path/to/file -dns 8.8.8.8
 """Fakedns.py: A regular-expression based DNS MITM Server by Crypt0s."""
 
 import pdb
